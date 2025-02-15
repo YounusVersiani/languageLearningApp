@@ -8,7 +8,7 @@
 
 # Functionality:
 - With the random module imported, shuffles the words from the dictionary
-- Prompts the user to enter the translation in English of German words
+- Prompts the user to enter the translation in English for German words
 - Runs for all words and quizzes user for each word
 - Returns the score at the end of the quiz
 
